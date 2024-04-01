@@ -1,0 +1,39 @@
+ci {0} 2
+ci {1} 0
+ci {2} 1
+ci {3} 2
+cm {1} {1}
+cm {2} {2}
+cm {3} {3}
+ci {7} 0
+ci {8} 0
+ci {9} 0
+salte 14
+igual {7} {0} 50
+somaInt {7} 1 {7}
+ci {8} 0
+igual {8} {0} 11
+somaInt {8} 1 {8}
+ci {9} 0
+igual {9} {0} 14
+vezes {4} {7} {0}
+soma {4} {4} {9}
+soma {4} {4} {1}
+cm {4} {4}
+
+vezes {5} {9} {0}
+soma {5} {5} {8}
+soma {5} {5} {2}
+cm {5} {5}
+
+vezes {6} {7} {0}
+soma {6} {6} {8}
+soma {6} {6} {3}
+cm {6} {10}
+
+vezes {5} {4} {5}
+soma {10} {10} {5}
+
+gm {6} {10}
+somaInt {9} 1 {9}
+salte 17
